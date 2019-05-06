@@ -1,2 +1,2 @@
 # FLCM_Score
-A score test for FLCM, Refer to READme.txt for details.
+A score test for FLCM, refer to READme.txt for more details.
