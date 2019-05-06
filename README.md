@@ -1,2 +1,2 @@
 # FLCM_Score
-A score test for FLCM, refer to READme.txt for more details.
+A score based test for FLCM, download the .zip file and refer to READme.txt for more details.
